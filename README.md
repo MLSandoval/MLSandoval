@@ -2,6 +2,7 @@
 [michaelsandoval.pro](http://michaelsandoval.pro) • [github.com/mlsandoval](https://github.com/mlsandoval/) • [michaelsandoval.resume@gmail.com](mailto:michaelsandoval.resume@gmail.com)
 <details>
  <summary>Click here to expand my Resume!</summary>
+ 
 ## Objective
 To apply the latest front and back end web technologies as I contribute to an agile team focused on developing responsive web applications, while learning as much as I may from my coworkers.
 
